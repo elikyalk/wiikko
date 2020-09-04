@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1024783454004",
+    "firebase_url": "https://wiikko-b0446.firebaseio.com",
+    "project_id": "wiikko-b0446",
+    "storage_bucket": "wiikko-b0446.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024783454004:android:6b38ab7aadb644fc4b5f61",
+        "android_client_info": {
+          "package_name": "com.lemendetech.chap_app_wiikko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024783454004-ska7490u1ec7k51n1tmnj8858rli94ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk9obrDwWzBLWfyaZNhCFV_P4idAbLpD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024783454004-ska7490u1ec7k51n1tmnj8858rli94ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

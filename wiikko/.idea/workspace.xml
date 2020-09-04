@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89755aed-f9ec-439e-a1c5-dc1863d22c8d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/libs/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v1/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="431">
+              <caret line="333" selection-start-line="333" selection-end-line="333" />
+              <folding>
+                <element signature="n#getDatabase#0;n#!!top" />
+                <element signature="n#authenticate#0;n#!!top" />
+                <element signature="e#1271#1653#1#PHP" />
+                <element signature="e#1701#2464#1#PHP" />
+                <element signature="e#2499#3662#1#PHP" />
+                <element signature="e#3709#4638#1#PHP" />
+                <element signature="e#4684#5512#1#PHP" />
+                <element signature="n#firebaseNotificationToTopic#0;n#!!top" />
+                <element signature="n#unOrSubscribeToTopic#0;n#!!top" />
+                <element signature="n#verifyRequiredParams#0;n#!!top" />
+                <element signature="n#verifyRequiredParams2#0;n#!!top" />
+                <element signature="n#echoRespnse#0;n#!!top" />
+                <element signature="n#utf8_string_array_encode#0;n#!!top" />
+                <element signature="n#utf8_string_array_decode#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Message.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/Message.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="110" column="18" selection-start-line="110" selection-start-column="18" selection-end-line="110" selection-end-column="18" />
+              <folding>
+                <element signature="n#__construct#0;n#Message#0;n#!!top" />
+                <element signature="n#toArray#0;n#Message#0;n#!!top" />
+                <element signature="n#fromArray#0;n#Message#0;n#!!top" />
+                <element signature="n#ajouter#0;n#Message#0;n#!!top" />
+                <element signature="n#find#0;n#Message#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/Config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="63" column="27" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
+              <folding>
+                <element signature="n#__construct#0;n#User#0;n#!!top" />
+                <element signature="n#setPassword#0;n#User#0;n#!!top" />
+                <element signature="n#find#0;n#User#0;n#!!top" />
+                <element signature="n#findAuthCode#0;n#User#0;n#!!top" />
+                <element signature="n#login#0;n#User#0;n#!!top" />
+                <element signature="n#correctPassword#0;n#User#0;n#!!top" />
+                <element signature="n#isUserExists#0;n#User#0;n#!!top" />
+                <element signature="n#modifier#0;n#User#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="General.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/include/General.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="n#fetchAssocStatement#0;n#General#0;n#!!top" />
+                <element signature="n#correctPassword#0;n#General#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>todo</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/include/User.php" />
+        <option value="$PROJECT_DIR$/include/User.php" />
+        <option value="$PROJECT_DIR$/v1/index.php" />
+        <option value="$PROJECT_DIR$/include/Message.php" />
+        <option value="$PROJECT_DIR$/include/Message.php" />
+        <option value="$PROJECT_DIR$/include/Config.php" />
+        <option value="$PROJECT_DIR$/v1/index.php" />
+        <option value="$PROJECT_DIR$/include/General.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wiikko" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wiikko" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wiikko" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wiikko" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wiikko" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wiikko" type="462c0819:PsiDirectoryNode" />
+              <item name="v1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\WiikkoTest\wiikko_server\include" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89755aed-f9ec-439e-a1c5-dc1863d22c8d" name="Default" comment="" />
+      <created>1599121321288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599121321288</updated>
+      <workItem from="1599121324092" duration="8969000" />
+      <workItem from="1599140852111" duration="949000" />
+      <workItem from="1599175435959" duration="2460000" />
+      <workItem from="1599206633206" duration="822000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13200000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19619326" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/v1/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2754">
+          <caret line="162" column="26" selection-start-line="162" selection-start-column="26" selection-end-line="162" selection-end-column="26" />
+          <folding>
+            <element signature="n#getDatabase#0;n#!!top" />
+            <element signature="n#authenticate#0;n#!!top" />
+            <element signature="e#1271#1653#1#PHP" />
+            <element signature="e#1701#2464#1#PHP" />
+            <element signature="e#2499#3662#1#PHP" />
+            <element signature="e#3709#4638#1#PHP" />
+            <element signature="e#4684#5512#1#PHP" />
+            <element signature="n#firebaseNotificationToTopic#0;n#!!top" />
+            <element signature="n#unOrSubscribeToTopic#0;n#!!top" />
+            <element signature="n#verifyRequiredParams#0;n#!!top" />
+            <element signature="n#verifyRequiredParams2#0;n#!!top" />
+            <element signature="n#echoRespnse#0;n#!!top" />
+            <element signature="n#utf8_string_array_encode#0;n#!!top" />
+            <element signature="n#utf8_string_array_decode#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="46" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
+          <folding>
+            <element signature="n#__construct#0;n#User#0;n#!!top" />
+            <element signature="n#setPassword#0;n#User#0;n#!!top" />
+            <element signature="n#find#0;n#User#0;n#!!top" />
+            <element signature="n#findAuthCode#0;n#User#0;n#!!top" />
+            <element signature="n#login#0;n#User#0;n#!!top" />
+            <element signature="n#correctPassword#0;n#User#0;n#!!top" />
+            <element signature="n#isUserExists#0;n#User#0;n#!!top" />
+            <element signature="n#modifier#0;n#User#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <element signature="n#__construct#0;n#Message#0;n#!!top" />
+            <element signature="n#toArray#0;n#Message#0;n#!!top" />
+            <element signature="n#fromArray#0;n#Message#0;n#!!top" />
+            <element signature="n#ajouter#0;n#Message#0;n#!!top" />
+            <element signature="n#find#0;n#Message#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2006">
+          <caret line="118" column="5" lean-forward="true" selection-start-line="118" selection-start-column="5" selection-end-line="118" selection-end-column="5" />
+          <folding>
+            <element signature="n#getDatabase#0;n#!!top" />
+            <element signature="n#authenticate#0;n#!!top" />
+            <element signature="e#1271#1653#1#PHP" />
+            <element signature="e#1701#2464#1#PHP" />
+            <element signature="e#2499#3662#1#PHP" />
+            <element signature="e#3709#4638#1#PHP" />
+            <element signature="e#4684#5512#1#PHP" />
+            <element signature="n#firebaseNotificationToTopic#0;n#!!top" />
+            <element signature="n#unOrSubscribeToTopic#0;n#!!top" />
+            <element signature="n#verifyRequiredParams#0;n#!!top" />
+            <element signature="n#verifyRequiredParams2#0;n#!!top" />
+            <element signature="n#echoRespnse#0;n#!!top" />
+            <element signature="n#utf8_string_array_encode#0;n#!!top" />
+            <element signature="n#utf8_string_array_decode#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="46" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
+          <folding>
+            <element signature="n#__construct#0;n#User#0;n#!!top" />
+            <element signature="n#setPassword#0;n#User#0;n#!!top" />
+            <element signature="n#find#0;n#User#0;n#!!top" />
+            <element signature="n#findAuthCode#0;n#User#0;n#!!top" />
+            <element signature="n#login#0;n#User#0;n#!!top" />
+            <element signature="n#correctPassword#0;n#User#0;n#!!top" />
+            <element signature="n#isUserExists#0;n#User#0;n#!!top" />
+            <element signature="n#modifier#0;n#User#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="n#__construct#0;n#Message#0;n#!!top" />
+            <element signature="n#toArray#0;n#Message#0;n#!!top" />
+            <element signature="n#fromArray#0;n#Message#0;n#!!top" />
+            <element signature="n#ajouter#0;n#Message#0;n#!!top" />
+            <element signature="n#find#0;n#Message#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="n#getDatabase#0;n#!!top" />
+            <element signature="n#authenticate#0;n#!!top" />
+            <element signature="e#1271#1653#1#PHP" />
+            <element signature="e#1701#2464#1#PHP" />
+            <element signature="e#2499#3662#1#PHP" />
+            <element signature="e#3709#4638#1#PHP" />
+            <element signature="e#4684#5512#1#PHP" />
+            <element signature="n#firebaseNotificationToTopic#0;n#!!top" />
+            <element signature="n#unOrSubscribeToTopic#0;n#!!top" />
+            <element signature="n#verifyRequiredParams#0;n#!!top" />
+            <element signature="n#verifyRequiredParams2#0;n#!!top" />
+            <element signature="n#echoRespnse#0;n#!!top" />
+            <element signature="n#utf8_string_array_encode#0;n#!!top" />
+            <element signature="n#utf8_string_array_decode#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+          <folding>
+            <element signature="n#__construct#0;n#User#0;n#!!top" />
+            <element signature="n#setPassword#0;n#User#0;n#!!top" />
+            <element signature="n#find#0;n#User#0;n#!!top" />
+            <element signature="n#findAuthCode#0;n#User#0;n#!!top" />
+            <element signature="n#login#0;n#User#0;n#!!top" />
+            <element signature="n#correctPassword#0;n#User#0;n#!!top" />
+            <element signature="n#isUserExists#0;n#User#0;n#!!top" />
+            <element signature="n#modifier#0;n#User#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="26" />
+          <folding>
+            <element signature="n#__construct#0;n#Message#0;n#!!top" />
+            <element signature="n#toArray#0;n#Message#0;n#!!top" />
+            <element signature="n#fromArray#0;n#Message#0;n#!!top" />
+            <element signature="n#ajouter#0;n#Message#0;n#!!top" />
+            <element signature="n#find#0;n#Message#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/MCrypt.php" />
+    <entry file="file://$PROJECT_DIR$/include/DbConnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Notification.php" />
+    <entry file="file://$PROJECT_DIR$/include/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="333" selection-start-line="333" selection-end-line="333" />
+          <folding>
+            <element signature="n#getDatabase#0;n#!!top" />
+            <element signature="n#authenticate#0;n#!!top" />
+            <element signature="e#1271#1653#1#PHP" />
+            <element signature="e#1701#2464#1#PHP" />
+            <element signature="e#2499#3662#1#PHP" />
+            <element signature="e#3709#4638#1#PHP" />
+            <element signature="e#4684#5512#1#PHP" />
+            <element signature="n#firebaseNotificationToTopic#0;n#!!top" />
+            <element signature="n#unOrSubscribeToTopic#0;n#!!top" />
+            <element signature="n#verifyRequiredParams#0;n#!!top" />
+            <element signature="n#verifyRequiredParams2#0;n#!!top" />
+            <element signature="n#echoRespnse#0;n#!!top" />
+            <element signature="n#utf8_string_array_encode#0;n#!!top" />
+            <element signature="n#utf8_string_array_decode#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="110" column="18" selection-start-line="110" selection-start-column="18" selection-end-line="110" selection-end-column="18" />
+          <folding>
+            <element signature="n#__construct#0;n#Message#0;n#!!top" />
+            <element signature="n#toArray#0;n#Message#0;n#!!top" />
+            <element signature="n#fromArray#0;n#Message#0;n#!!top" />
+            <element signature="n#ajouter#0;n#Message#0;n#!!top" />
+            <element signature="n#find#0;n#Message#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="63" column="27" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
+          <folding>
+            <element signature="n#__construct#0;n#User#0;n#!!top" />
+            <element signature="n#setPassword#0;n#User#0;n#!!top" />
+            <element signature="n#find#0;n#User#0;n#!!top" />
+            <element signature="n#findAuthCode#0;n#User#0;n#!!top" />
+            <element signature="n#login#0;n#User#0;n#!!top" />
+            <element signature="n#correctPassword#0;n#User#0;n#!!top" />
+            <element signature="n#isUserExists#0;n#User#0;n#!!top" />
+            <element signature="n#modifier#0;n#User#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/General.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="n#fetchAssocStatement#0;n#General#0;n#!!top" />
+            <element signature="n#correctPassword#0;n#General#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
